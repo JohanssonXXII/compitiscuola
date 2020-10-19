@@ -1,4 +1,4 @@
-def max(n1, n2, n3):
+﻿def max(n1, n2, n3):
     if n1 > n2 and n1 > n3:
         nmax = n1
     else:
@@ -6,7 +6,7 @@ def max(n1, n2, n3):
             nmax = n2
         else:
             nmax = n3
-    print("Il numero massimo é" + str(nmax))
+    print("Il numero massimo é un cazzo" + str(nmax))
     
     return nmax
 
