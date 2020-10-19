@@ -13,7 +13,7 @@
 # Main
 print("Inserisci il primo numero")
 n1 = int(input())
-print("Inserisci il secondo numero")
+print("Inserisci il secondo numer 3o ")
 n2 = int(input())
 print("Inserisci il terzo numero")
 n3 = int(input())
